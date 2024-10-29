@@ -6,6 +6,7 @@ SID:	1155213281
 
 **It is a Project using C++ language.**
 
+![image](https://github.com/CUHenry1007/CSCS2100Aproject1/blob/dced9dae32abc3628f0a75eebad7003a9c63829d/STAT.png)
 
 ## Guideline
 
